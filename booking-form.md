@@ -12,7 +12,8 @@ Select 'Reservations' from the top ribbon and click the 'Embed Booking Form' but
 
 The following form displays 2 pieces of information. Simply place these 2 code snippets in your existing websites code to embed the robust front and backend Airpeggio functionality which enables automated quoting and booking. If you have any questions or issues, please reach out to Airpeggio Support at Airpeggio@engaviation.com.
 
-![enter image description here](https://eng-prod.nyc3.cdn.digitaloceanspaces.com/knowledge-base/booking-form/booking-form-1.png)
+![enter image description here](https://eng-prod.nyc3.cdn.digitaloceanspaces.com/knowledge-base/booking-form/booking-form-1%20%281%29.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDk5OTYxMywxNjQyMzIyMzQ0XX0=
+eyJoaXN0b3J5IjpbMTE5NzY0NjY1NiwxNDQ0OTk5NjEzLDE2ND
+IzMjIzNDRdfQ==
 -->
