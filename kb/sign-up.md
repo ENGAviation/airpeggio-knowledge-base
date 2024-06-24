@@ -8,11 +8,14 @@ Navigate to [Airpeggio.io/login](https://airpegg.io/).
 
 Click 'Create an account'.
 
-![enter image description here](https://engaviation.sharepoint.com/:i:/r/sites/Documentation/Shared%20Documents/Technology/Airpeggio/KB/sign-up/sign-up-1.png?csf=1&web=1&e=vW6nI6)
+![enter image description here](https://eng-prod.nyc3.cdn.digitaloceanspaces.com/knowledge-base/sign-up/sign-up-1.png)
 
 
 Select which products you'd like to enroll (Inbox/FMS/Quoting), fill in your information, and accept the terms and conditions. Click 'Sign Up'.
 
-![enter image description here](https://engaviation.sharepoint.com/:i:/r/sites/Documentation/Shared%20Documents/Technology/Airpeggio/KB/sign-up/sign-up-2.png?csf=1&web=1&e=vY2sOU)
+![enter image description here](https://eng-prod.nyc3.cdn.digitaloceanspaces.com/knowledge-base/sign-up/sign-up-2.png)
 
 ## Enjoy the Operational Harmony of Airpeggio!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTEwNjM5NDY0XX0=
+-->
