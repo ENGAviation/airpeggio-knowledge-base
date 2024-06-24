@@ -14,6 +14,5 @@ The following form displays 2 pieces of information. Simply place these 2 code s
 
 ![enter image description here](https://eng-prod.nyc3.cdn.digitaloceanspaces.com/knowledge-base/booking-form/booking-form-1.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDk5OTYxMywxNDk0MzM5OTk3LDE2ND
-IzMjIzNDRdfQ==
+eyJoaXN0b3J5IjpbMTQ0NDk5OTYxM119
 -->
