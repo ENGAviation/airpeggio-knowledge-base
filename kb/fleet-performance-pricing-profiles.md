@@ -9,45 +9,49 @@ Navigate to [Airpeggio.io](https://airpegg.io/) and login.
 
 Select 'Aircraft' from the top ribbon and click on the 'Add Aircraft' button.
 
-![enter image description here](https://engaviation.sharepoint.com/:i:/r/sites/Documentation/Shared%20Documents/Technology/Airpeggio/KB/fleet-performance-pricing-profiles/add-aircraft.png?csf=1&web=1&e=QR38G8)
+![enter image description here](https://eng-prod.nyc3.cdn.digitaloceanspaces.com/knowledge-base/fleet-performance-pricing-profiles/add-aircraft.png)
 
 On the following screen, you'll see 4 different categories. Simply click on the carrot to expand each section. 
 
-![enter image description here](https://engaviation.sharepoint.com/:i:/r/sites/Documentation/Shared%20Documents/Technology/Airpeggio/KB/fleet-performance-pricing-profiles/add-aircraft-0.png?csf=1&web=1&e=fmkpha)
+![enter image description here](https://eng-prod.nyc3.cdn.digitaloceanspaces.com/knowledge-base/fleet-performance-pricing-profiles/add-aircraft-0.png)
 
 **Aircraft Basic Info**: Tail number, type, seats, etc.
 
-![enter image description here](https://engaviation.sharepoint.com/:i:/r/sites/Documentation/Shared%20Documents/Technology/Airpeggio/KB/fleet-performance-pricing-profiles/basic-1.png?csf=1&web=1&e=hWyGzZ)
+![enter image description here](https://eng-prod.nyc3.cdn.digitaloceanspaces.com/knowledge-base/fleet-performance-pricing-profiles/basic-1.png)
 
 **Aircraft Performance Profile**: Fuel, climb, speed, runway, etc.
 
-![enter image description here](https://engaviation.sharepoint.com/:i:/r/sites/Documentation/Shared%20Documents/Technology/Airpeggio/KB/fleet-performance-pricing-profiles/performance.png?csf=1&web=1&e=nH86HU)
+![enter image description here](https://eng-prod.nyc3.cdn.digitaloceanspaces.com/knowledge-base/fleet-performance-pricing-profiles/performance.png)
 
 **Equipment**: FMS, CVR, RVSM, etc.
 
-![enter image description here](https://engaviation.sharepoint.com/:i:/r/sites/Documentation/Shared%20Documents/Technology/Airpeggio/KB/fleet-performance-pricing-profiles/equipment.png?csf=1&web=1&e=XEbeWs)
+![enter image description here](https://eng-prod.nyc3.cdn.digitaloceanspaces.com/knowledge-base/fleet-performance-pricing-profiles/equipment.png)
 
 **Amenities**: Pets, lavatory, wifi, etc.
 
-![enter image description here](https://engaviation.sharepoint.com/:i:/r/sites/Documentation/Shared%20Documents/Technology/Airpeggio/KB/fleet-performance-pricing-profiles/amenities.png?csf=1&web=1&e=a8fadf)
-![enter image description here](https://engaviation.sharepoint.com/:i:/r/sites/Documentation/Shared%20Documents/Technology/Airpeggio/KB/fleet-performance-pricing-profiles/amenities-1.png?csf=1&web=1&e=iG7KSa)
+![enter image description here](https://eng-prod.nyc3.cdn.digitaloceanspaces.com/knowledge-base/fleet-performance-pricing-profiles/amenities.png)
+![enter image description here](https://eng-prod.nyc3.cdn.digitaloceanspaces.com/knowledge-base/fleet-performance-pricing-profiles/amenities-1.png)
 
 When you're finished, click the 'Add Aircraft' button.
 
-![enter image description here](https://engaviation.sharepoint.com/:i:/r/sites/Documentation/Shared%20Documents/Technology/Airpeggio/KB/fleet-performance-pricing-profiles/add-aircraft-3.png?csf=1&web=1&e=qrdszP)
+![enter image description here](https://eng-prod.nyc3.cdn.digitaloceanspaces.com/knowledge-base/fleet-performance-pricing-profiles/add-aircraft-3.png)
 
 ## Creating Pricing Profiles
 
 Select 'Aircraft' from the top ribbon, click 'Manage Pricing Profiles', then click the 'Add Pricing Profile' button.
 
-![enter image description here](https://engaviation.sharepoint.com/:i:/r/sites/Documentation/Shared%20Documents/Technology/Airpeggio/KB/fleet-performance-pricing-profiles/add-pricing-profile.png?csf=1&web=1&e=LgLsYa)
+![enter image description here](https://eng-prod.nyc3.cdn.digitaloceanspaces.com/knowledge-base/fleet-performance-pricing-profiles/add-pricing-profile.png)
 
 The popup will display the following. Click the 'Add Line Item' button to add custom line-item features to your pricing profile. This can include margin and flat rate items across entire trips, legs, flight hours etc. To remove a  ine item, click the '-' button on the right edge of the entry. Once finished, click the 'Add Profile' button.
 
-![enter image description here](https://engaviation.sharepoint.com/:i:/r/sites/Documentation/Shared%20Documents/Technology/Airpeggio/KB/fleet-performance-pricing-profiles/pricing-profile.png?csf=1&web=1&e=1BZsyZ)
+![enter image description here](https://eng-prod.nyc3.cdn.digitaloceanspaces.com/knowledge-base/fleet-performance-pricing-profiles/pricing-profile.png)
 
 
 
 
 
 
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwODY4MDE3MjddfQ==
+-->
