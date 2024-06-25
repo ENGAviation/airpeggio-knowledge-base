@@ -1,7 +1,5 @@
 # Add Automated Booking Form to your Website
 
-TEST
-
 This tutorial will cover how to add the booking form to your website. This will allow you to enable automated, real-time trip booking functionality to your charter operations.
 
 ## Add the Booking Form
@@ -16,5 +14,5 @@ The following form displays 2 pieces of information. Simply place these 2 code s
 
 ![enter image description here](https://eng-prod.nyc3.cdn.digitaloceanspaces.com/knowledge-base/booking-form/booking-form-1%20%281%29.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzcyMDU2NiwxMTk3NjQ2NjU2XX0=
+eyJoaXN0b3J5IjpbMTE5NzY0NjY1NiwxMTk3NjQ2NjU2XX0=
 -->
