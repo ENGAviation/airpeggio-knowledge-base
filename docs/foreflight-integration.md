@@ -9,7 +9,7 @@ Navigate to [Airpeggio.io](https://airpegg.io/) and login.
 
 Select the drop down in the top right corner. It will display as 'Your Name' when you are logged into your account. Click 'Settings'.
 
-![enter image description here](https://eng-prod.nyc3.cdn.digitaloceanspaces.com/knowledge-base/foreflight-integration/settings.png)
+![enter image description here](https://eng-production-mypublicbucket-bmffvtkz.s3.us-east-2.amazonaws.com/knowledge-base/foreflight-integration/settings.png)
 
 Select 'Integrations' from the left pane, locate the ForeFlight tile from the list, and click add.
 
@@ -25,5 +25,5 @@ For assistance on locating your ForeFlight API Key and Client Secret, either rea
 
 [How do I generate API Keys in ForeFlight Dispatch?](https://support.foreflight.com/hc/en-us/articles/360037724333-How-do-I-generate-API-Keys-in-ForeFlight-Dispatch)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjU5ODU3MDZdfQ==
+eyJoaXN0b3J5IjpbLTM5MzY5MzI5MiwtMjA2NTk4NTcwNl19
 -->
