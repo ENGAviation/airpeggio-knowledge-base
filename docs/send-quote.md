@@ -8,15 +8,15 @@ Navigate to [Airpeggio.io](https://airpegg.io/) and login.
 
 Select 'Reservations' from the top ribbon, find the reservation that you want to generate the quote for, and click the eye icon to drill into the reservation request.
 
-![enter image description here](https://eng-prod.nyc3.cdn.digitaloceanspaces.com/knowledge-base/send-quote/send-quote.png)
+![enter image description here](https://eng-production-mypublicbucket-bmffvtkz.s3.us-east-2.amazonaws.com/knowledge-base/send-quote/send-quote.png)
 
 Before you generate the quote, verify the legs, passenger info, pilot assignments to ensure there are no scheduling conflicts, and click the 'Generate Quote' button at the bottom of the page.
 
-![enter image description here](https://eng-prod.nyc3.cdn.digitaloceanspaces.com/knowledge-base/send-quote/send-quote-1.png)
+![enter image description here](https://eng-production-mypublicbucket-bmffvtkz.s3.us-east-2.amazonaws.com/knowledge-base/send-quote/send-quote-1.png)
 
 On the next page, select the appropriate Pricing Profile and click the 'Generate Quote' button.
 
-![enter image description here](https://eng-prod.nyc3.cdn.digitaloceanspaces.com/knowledge-base/send-quote/send-quote-2.png)
+![enter image description here](https://eng-production-mypublicbucket-bmffvtkz.s3.us-east-2.amazonaws.com/knowledge-base/send-quote/send-quote-2.png)
 
 On the following page, you'll see button options to do the following:
 
@@ -25,5 +25,5 @@ On the following page, you'll see button options to do the following:
  - Download Quote: Downloads the quote straight to your computer in PDF format
  - Mark as Paid: Click this button once you have received trip payment
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTY0OTk2NjRdfQ==
+eyJoaXN0b3J5IjpbOTI1NzM3ODEwLC0xMzU2NDk5NjY0XX0=
 -->
